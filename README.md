@@ -2,13 +2,13 @@
 
 This project is a **Frequency Analysis Tool** written in Python.  
 It performs **letter frequency analysis** and can **decrypt simple Caesar cipher messages** by estimating the most probable shift based on letter frequency.  
-It supports both **French 🇫🇷** and **English 🇬🇧** alphabets.
+It supports both **French ** and **English ** alphabets.
 
 The program includes a **graphical user interface (GUI)** using `Tkinter`, and displays **letter frequency histograms** using `Matplotlib`.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This mini-project allows users to input a piece of text (which can be encrypted) and automatically:
 
@@ -22,21 +22,21 @@ This project demonstrates how frequency analysis can be used to **break substitu
 
 ---
 
-## 🖥️ Features
+## Features
 
-- 🧮 Performs **letter frequency analysis** using Python’s `collections.Counter`
-- 🔓 Automatically **decrypts Caesar ciphers**
-- 📊 Displays results as **bar charts** using `matplotlib`
-- 🪟 Provides a simple **graphical interface** using `tkinter`
-- 🌍 Works for **French** and **English** texts
-- 🧠 Includes predefined letter frequency distributions for:
-  - French 🇫🇷  
-  - English 🇬🇧  
-  - Spanish 🇪🇸 (for comparison)
+- Performs **letter frequency analysis** using Python’s `collections.Counter`
+- Automatically **decrypts Caesar ciphers**
+- Displays results as **bar charts** using `matplotlib`
+- Provides a simple **graphical interface** using `tkinter`
+- Works for **French** and **English** texts
+- Includes predefined letter frequency distributions for:
+  - French  
+  - English  
+  - Spanish (for comparison)
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 You need **Python 3.x** and the following library:
 
