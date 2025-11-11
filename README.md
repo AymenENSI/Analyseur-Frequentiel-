@@ -1,4 +1,4 @@
-# 🔍 Frequency Analysis Tool
+# Frequency Analysis Tool
 
 This project is a **Frequency Analysis Tool** written in Python.  
 It performs **letter frequency analysis** and can **decrypt simple Caesar cipher messages** by estimating the most probable shift based on letter frequency.  
